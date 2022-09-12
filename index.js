@@ -1,8 +1,5 @@
 const fcn = {};
 const fs = require('fs').promises;
-// const { htmlEntities } = require('../lib/ctrol_query');
-// const { tablas } = require('../lib/tablas');
-// const colors = require('colors');
 const os = require('os');
 const moment = require('moment');
 
