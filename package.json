@@ -1,0 +1,23 @@
+{
+  "name": "fcnsyc",
+  "version": "1.0.0",
+  "description": "funciones para proyectos sycrs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sycrs/fcnsyc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sycrs/fcnsyc/issues"
+  },
+  "homepage": "https://github.com/sycrs/fcnsyc#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
